@@ -7,9 +7,11 @@
 🚀 Building scalable web applications with modern technologies and microservices architecture<br>
 🤖 Passionate about integrating AI capabilities into web platforms<br>
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-bhardwaj) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:siddhibhardwaj@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-bhardwaj)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=siddhibhardwaj@outlook.com)
+
+
 
 # 💻 Tech Stack:
 
