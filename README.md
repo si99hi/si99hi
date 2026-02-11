@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhi Bhardwaj</h1>
 <h3 align="center">Full Stack Developer | CSE Student @ Bennett University</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=si99hi&label=Profile%20views&color=0e75b6&style=flat" alt="si99hi" />
-</p>
 
 # 💫 About Me:
 🎓 Computer Science Engineering student at Bennett University, specializing in Full Stack Development<br>
