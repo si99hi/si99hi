@@ -1,7 +1,8 @@
-# Hi 👋, I'm Siddhi Bhardwaj
+# Siddhi Bhardwaj 
 
-Full Stack Developer | CSE @ Bennett University  
-Passionate about scalable web apps and AI integration.
+full stack developer + cse student at bennett.  
+
+mostly shipping web apps, backend systems, and whatever tech rabbit hole i’m into that week.
 
 📫 siddhibhardwaj@outlook.com  
-💼 LinkedIn: https://www.linkedin.com/in/siddhibhardwaj
+🔗 linkedin.com/in/siddhibhardwaj
