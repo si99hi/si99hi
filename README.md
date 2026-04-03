@@ -1,6 +1,7 @@
-# Siddhi Bhardwaj 
+# hey! I'm Siddhi
 
-full stack developer + cse student at bennett.  
+Full-stack dev building clean, fast, and scalable stuff 🚀
 
-mostly shipping web apps, backend systems, and whatever tech rabbit hole i’m into that week.
+
+Exploring tech rabbit holes & shipping ideas into reality ⚡
 
